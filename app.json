@@ -35,7 +35,7 @@ to{
     "scheme": "printmotive-admin",
     "extra": {
       "eas": {
-        "projectId": "YOUR_EAS_PROJECT_ID"
+        "projectId": "f967229e-be37-4538-9719-2a6027f97a1c"
       }
     }
   }
