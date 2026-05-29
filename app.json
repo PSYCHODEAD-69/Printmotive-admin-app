@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PM Admin",
-    "slug": "printmotive-admin",
+    "slug": "printmotive-admin-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
