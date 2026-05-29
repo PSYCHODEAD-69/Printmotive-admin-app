@@ -1,4 +1,4 @@
-{
+to{
   "expo": {
     "name": "PM Admin",
     "slug": "printmotive-admin",
@@ -24,7 +24,6 @@
       ]
     },
     "plugins": [
-      "expo-router",
       "expo-secure-store",
       [
         "expo-image-picker",
